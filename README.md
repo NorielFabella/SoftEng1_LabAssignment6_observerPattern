@@ -34,4 +34,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 UML Diagram:
 
 
-![UML](https://github.com/NorielFabella/SoftEng1_LabAssignment6_observerPattern/blob/main/ObserverPattern%20-%20Color.png)
+![UML](https://github.com/NorielFabella/SoftEng1_LabAssignment6_observerPattern/blob/main/ObserverPattern%20-%20Color%20(1).png)
